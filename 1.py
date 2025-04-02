@@ -1,4 +1,7 @@
 Moon
 Jupiter
-Saturn
+Venus
 Mercury
+Sun
+Kepler
+Titan
